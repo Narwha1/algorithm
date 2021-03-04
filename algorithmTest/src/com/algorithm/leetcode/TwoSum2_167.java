@@ -1,4 +1,4 @@
-package LeetCode;
+package com.algorithm.leetcode;
 
 
 import java.util.Arrays;
@@ -32,8 +32,8 @@ public class TwoSum2_167 {
     }
 
     public static void main(String[] args) {
-        int[] numbers = {2,7,11,15,16};
-        int[] test = twoSum(numbers,13);
+        int[] numbers = {2, 7, 11, 15, 16};
+        int[] test = twoSum(numbers, 13);
         System.out.println(Arrays.toString(test));
     }
 

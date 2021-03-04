@@ -1,4 +1,4 @@
-package Question;
+package com.algorithm.question;
 
 import java.util.ArrayList;
 import java.util.Scanner;

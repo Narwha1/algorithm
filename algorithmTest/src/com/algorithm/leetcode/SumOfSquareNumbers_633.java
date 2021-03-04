@@ -1,4 +1,4 @@
-package LeetCode;
+package com.algorithm.leetcode;
 
 public class SumOfSquareNumbers_633 {
     public static boolean judgeSquareSum(int c) {
